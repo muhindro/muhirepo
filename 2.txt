@@ -1,0 +1,17 @@
+hello all
+:x
+:w
+x
+:x
+want to add new 
+hello
+:w
+
+
+
+
+
+
+
+
+
